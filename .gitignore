@@ -1,0 +1,27 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+logs/*
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+/dist
+
+# Backpack build
+/build
+
+# idea
+.idea
+
+config.local.js
+server.prod.js
+docker-compose.prod.yml
+
+# temp files
+tmp/*
+
+/test/coverage
